@@ -34,7 +34,9 @@ Below are some links to meta-articles, summaries of ideas and lectures that guid
 ## Physics Roadmap
 - How to become a GOOD Theoretical Physicist - Gerardus 't Hooft 1999 Physics Nobel - https://webspace.science.uu.nl/~gadda001/goodtheorist/index.html
 - Assuming you know a fair bit of calculus, Steven Brunton lectures starting with Math Engineering on Differential Eq, SVD, Fourier Analysis will give you the intuition you wished you had been taught.
-- Coming from a Computer Science background, covering gaps in math (e.g with Steven's lectures)
+
+Youtube resources:
+- Coming from a Computer Science background, covering gaps in math (e.g with Steven's lectures), chemistry with TMPChem
 
 ## Japanese
 
