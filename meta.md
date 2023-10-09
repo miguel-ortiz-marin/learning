@@ -10,7 +10,7 @@ For some context: In 2016 I started a **Systems Engineering and Computation (Com
 - The Covid years were (expectedly) dark for me, emotionally, academically and financially (I was heavy into crypto, won and lost). I dropped competitive programming (a heavy heart decision) and took a shift into Quantum Computing with Qubit by Qubit by the coding school and graduate coursework with Fabio Gonzalez (MindLab Leader).
 - Motivated by heartbreak, I invested a lot into self-development and before graduating I found myself starting a position as Junior Data Scientist at QuantumBlack, AI by McKinsey Bogotá Office. There I've gained a lot of practical experience in machine learning in banking and B2B industries.
 - On my "free time" I took to learn mainly QC, I partaked in all the IBM quantum challenges I could, gained the qiskit certification and even won 2nd place at one MIT Quantum Computing hackathon.
-- Now, I'm taking self-learning more seriously (and via extension writing about it). I'm filling my knowledge gaps in math and physics with formal books. I also picked up weight lifting and have been progressing nicely. 
+- Now, I'm taking self-learning more seriously (and via extension writing about it). I'm filling my knowledge gaps in math and physics with formal books. I also picked up weight lifting and have been progressing nicely. Even though the *quantum advantage* is still uncertain, I'm convinced that thoroughly and correctly learning the material will improve anyone chances to make interesting contributions to their respective fields ML.
 
 Below are some links to meta-articles, summaries of ideas and lectures that guide my thought.
 
