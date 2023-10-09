@@ -19,8 +19,9 @@ Below are some links to meta-articles, summaries of ideas and lectures that guid
 # Guiding principles
 
 - Essentialism: The Disciplined Pursuit of Less - Greg McKown
-- Maps of meaning - Jordan Peterson https://www.youtube.com/playlist?list=PL22J3VaeABQCn5nTAx65NRlh1EsKD0UQD
-
+- Maps of meaning - Jordan Peterson - https://www.youtube.com/playlist?list=PL22J3VaeABQCn5nTAx65NRlh1EsKD0UQD
+- Carl Jung Path of Indiviuation - https://www.youtube.com/watch?v=Vx_60kIXLIU&ab_channel=AcademyofIdeas
+  
 # Studying
 - [Study Less, Study Smart](https://www.youtube.com/watch?v=IlU-zDU6aQ0&ab_channel=PierceCollegeDist11)
 
